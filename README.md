@@ -2,28 +2,25 @@
 
 Este é o nosso espaço para aprender e compartilhar! Aqui você pode colocar seu código, tirar dúvidas e participar dos desafios.
 
-## Como Funciona
+## Como Criar Seu Repositório
 
-- **Coloque seu código** nos repositórios de projetos.
-- **Tire dúvidas** criando uma *Issue*.
-- **Participe dos desafios** e compartilhe suas soluções!
+1. **Acesse o repositório** da turma: [InformaticaGC-3ANO](https://github.com/Prof-LeandroPereira/InformaticaGC-3ANO)
+2. **Crie um sub-repositório com seu nome**:
+   - Na URL do repositório da turma, adicione seu nome ao final. Exemplo:
+     - [https://github.com/Prof-LeandroPereira/InformaticaGC-3ANO/seu-nome](https://github.com/Prof-LeandroPereira/InformaticaGC-3ANO/seu-nome)
+   - Substitua `seu-nome` pelo seu nome completo ou o nome que preferir.
+3. **Adicione seus códigos Python**:
+   - Dentro do seu sub-repositório, crie arquivos com a extensão `.py` para os códigos que você for criar.
+4. **Faça um commit** para salvar o seu código.
+5. **Compartilhe** com o professor e colegas!
 
-## Regras
+### Exemplo:
+- Nome do aluno: João Silva
+- URL do repositório: [https://github.com/Prof-LeandroPereira/InformaticaGC-3ANO/Joao-Silva](https://github.com/Prof-LeandroPereira/InformaticaGC-3ANO/Joao-Silva)
 
-- Respeite todos os colegas.
-- Dê créditos quando usar código de outras pessoas.
-- Mantenha seu código organizado.
+---
 
-## Como Contribuir
-
-1. Faça um **fork** do repositório.
-2. Crie uma nova branch.
-3. Comite e faça um **pull request**.
-
-## Como Tirar Dúvidas
-
-- Crie uma *Issue* para dúvidas.
-- Veja se sua dúvida já foi respondida em outra *Issue*.
+Lembre-se de organizar bem seus arquivos e sempre fazer commits regulares para salvar seu progresso!
 
 ## Links Úteis
 
