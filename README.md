@@ -28,4 +28,3 @@ Este é o nosso espaço para aprender e compartilhar! Aqui você pode colocar se
 ## Links Úteis
 
 - [Repositório de Projetos](link-do-repositorio)
-- [Desafios Semanais](link-para-desafios)
