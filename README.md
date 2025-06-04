@@ -1,4 +1,4 @@
-# Bem-vindo aos Alunos da EAMEF Guiomar Cabral
+# Bem-vindo aos Alunos da EMEF Guiomar Cabral
 
 Este é o nosso espaço para aprender e compartilhar! Aqui você pode colocar seu código, tirar dúvidas e participar dos desafios.
 
